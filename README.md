@@ -2,8 +2,6 @@
 This folder contains some known and challenging problems one faces while learning Artificial Intelligence.
 
 It includes the N queens problem,
-
-
 <center><img width="452" alt="image" src="https://github.com/vermashaurya/ai-foundational/assets/136727534/d881a8c9-43ce-47bc-8d4d-e8a5a4ecffe4"></center>
 
 the waterjug problem,
@@ -18,7 +16,7 @@ the 8 puzzle problem,
 and the missionary & cannibals problem. 
 <center><img width="452" alt="image" src="https://github.com/vermashaurya/ai-foundational/assets/136727534/f8413202-84fa-4758-abe5-f81a4adbc518"></center>
 
-Methods used to achieve a desirable solution in these problems are BFS (Breath First Search) Algorithm, DFS ( Depth First Search) Algorithm, and Backtracking. 
+Methods used to achieve a desirable solution in these problems are BFS (Breath First Search) Algorithm, DFS (Depth First Search) Algorithm, and Backtracking. 
 Every problem is solved using Python. 
 
 Comments are provided for the viewer to find it easier to locate certain components of the code. 
