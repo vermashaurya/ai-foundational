@@ -2,6 +2,8 @@
 This folder contains some known and challenging problems one faces while learning Artificial Intelligence.
 
 It includes the N queens problem,
+
+
 <center><img width="452" alt="image" src="https://github.com/vermashaurya/ai-foundational/assets/136727534/d881a8c9-43ce-47bc-8d4d-e8a5a4ecffe4"></center>
 
 the waterjug problem,
